@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-345-feat-agents-cap-per-cycle-x402-spend-on-trader",
+    "fix/issue-350-perf-agents-use-batched-claim-reads-in-the",
+    "fix/issue-354-fix-agents-make-createthrottle-safe-for",
+    "fix/issue-355-test-ui-cover-mergependingvs-and-pending-claim",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-345-feat-agents-cap-per-cycle-x402-spend-on-trader": "main",
+    "fix/issue-350-perf-agents-use-batched-claim-reads-in-the": "main",
+    "fix/issue-354-fix-agents-make-createthrottle-safe-for": "main",
+    "fix/issue-355-test-ui-cover-mergependingvs-and-pending-claim": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-345-feat-agents-cap-per-cycle-x402-spend-on-trader",
+    "fix/issue-350-perf-agents-use-batched-claim-reads-in-the",
+    "fix/issue-354-fix-agents-make-createthrottle-safe-for",
+    "fix/issue-355-test-ui-cover-mergependingvs-and-pending-claim",
+    "origin"
+  ]
+}
