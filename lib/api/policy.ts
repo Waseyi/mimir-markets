@@ -1,5 +1,5 @@
-/**
- * Access tiers for API routes (§11).
+/*
+ * Access tiers for API routes (11).
  *
  * Four kinds of caller reach these routes and they need different things checked.
  * Before this, each route decided for itself — which is how one of them ends up
